@@ -1,0 +1,1 @@
+👋🏽Sou Vinicius, esse game eu fiz inspirado em outro jogo que me fugiu o nome agora, esse jogo é bastante simples consiste em derrotar a horda de inimigos e a cada 8 segundos mais inimigos são spawnados e com maior velocidade.
